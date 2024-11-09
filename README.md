@@ -30,6 +30,11 @@ https://github.com/shamantmn/sys-pattern-homework/blob/main/hsrp_advanced_Osipov
 
 ### Задание 2
 
+Скрипт: ([[ -f '/var/www/html/index.html' ]]) && (killall -0 apache2 2> /dev/null) 
+![mage] (https://github.com/shamantmn/sys-pattern-homework/blob/main/MASTER_keepalived.png)
+![mage] (https://github.com/shamantmn/sys-pattern-homework/blob/main/BACKUP_keepalived.png)
+![image] (https://github.com/shamantmn/sys-pattern-homework/blob/main/MASTER.png)
+![image] (https://github.com/shamantmn/sys-pattern-homework/blob/main/BACKUP.png)
 
 ### Задание 3
 
