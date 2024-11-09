@@ -30,7 +30,10 @@ https://github.com/shamantmn/sys-pattern-homework/blob/main/hsrp_advanced_Osipov
 
 ### Задание 2
 
-Скрипт: ([[ -f '/var/www/html/index.html' ]]) && (killall -0 apache2 2> /dev/null) 
+Скрипт: /etc/keepalived/apache2.sh
+
+([[ -f '/var/www/html/index.html' ]]) && (killall -0 apache2 2> /dev/null) 
+
 
 ![image](https://github.com/shamantmn/sys-pattern-homework/blob/main/MASTER_keepalived.png)
 
